@@ -1,4 +1,4 @@
-# Gefeliceerd
+# Gefeliciteerd
 Gij heeft het eerste ingredient gevonden: Sla
 
 <img width="474" height="359" alt="image" src="https://github.com/user-attachments/assets/928d32b9-f867-46bd-a930-88a1cf654029" />
